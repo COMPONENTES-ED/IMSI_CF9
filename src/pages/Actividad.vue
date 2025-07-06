@@ -21,12 +21,12 @@
         <div class="col-12 col-md-8 col-lg-9">
           <div class="titulo-segundo">
             <h2>
-              Prueba de conocimientos sobre parametrización de
-              <em>hardware</em> y <em>software</em>.
+              Prueba de conocimientos sobre Parametrización de
+              <em>hardware</em> y <em>software</em>
             </h2>
           </div>
           <p class="mb-4">
-            Validar el conocimiento adquirido sobre sobre parametrización de
+            Validar el conocimiento adquirido sobre sobre Parametrización de
             <em>hardware</em> y <em>software</em>. Esto se trabaja a partir de
             un conjunto de preguntas, con el propósito de buscar una dinámica de
             razonamiento ágil sobre opciones cerradas y reafirmar un
